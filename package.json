@@ -12,7 +12,6 @@
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-sharp": "^2.6.42",
     "gatsby-source-filesystem": "^2.3.34",
-    "gatsby-theme-maximeheckel": "0.14.2",
     "gatsby-transformer-sharp": "^2.5.17",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
@@ -33,8 +32,6 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "theme:link": "yarn link gatsby-theme-maximeheckel",
-    "theme:unlink": "yarn unlink gatsby-theme-maximeheckel && yarn install --force",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
